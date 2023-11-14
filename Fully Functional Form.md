@@ -1,4 +1,4 @@
-# Tutorial
+# FORM USING POST METHOD
 
 ```
 <!doctype html>
